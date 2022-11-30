@@ -2,7 +2,7 @@ Gobuster Tool Installation : https://github.com/OJ/gobuster.git
 
 Install from terminal : go install github.com/OJ/gobuster/v3@latest
 
-# dns Mode :Uses DNS subdomain enumeration mode
+# dns Mode : Uses DNS subdomain enumeration mode
 
       Usage:
 
@@ -131,7 +131,7 @@ Global Flags:
 
       E.g. gobuster -u http://fakebank.com -w wordlist.txt dir
       
-      **-u** is used to state the website we're scanning, **-w** takes a list of words to iterate through, to find hidden pages.
+      -u is used to state the website we're scanning, -w takes a list of words to iterate through, to find hidden pages.
 
 
       
