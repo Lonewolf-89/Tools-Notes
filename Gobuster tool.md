@@ -1,8 +1,8 @@
-## Gobuster Tool Installation : https://github.com/OJ/gobuster.git
+### Gobuster Tool Installation : https://github.com/OJ/gobuster.git
 
-## Install from terminal : go install github.com/OJ/gobuster/v3@latest
+### Install from terminal : go install github.com/OJ/gobuster/v3@latest
 
-## dns Mode : Uses DNS subdomain enumeration mode
+### dns Mode : Uses DNS subdomain enumeration mode
 
       Usage:
 
@@ -47,7 +47,7 @@ Global Flags:
        -w, --wordlist string   Path to the wordlist
   
   
-## dir Mode : Uses directory/file enumeration mode
+### dir Mode : Uses directory/file enumeration mode
 
         Usage:
 
@@ -127,7 +127,7 @@ Global Flags:
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Directory Enumeration using Gobuster :
+### Directory Enumeration using Gobuster :
 
       E.g. gobuster -u http://fakebank.com -w wordlist.txt dir
       
